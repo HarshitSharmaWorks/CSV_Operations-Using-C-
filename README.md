@@ -1,4 +1,4 @@
-# CSV_Operations-Using-C-
+# CSV_Operations-Using-C++
 CSV Operations
 This application is designed to data from a CSV file, parse it, and either print it to a JSON file or store it in a MySQL database. Upon running the executable, the user will be prompted with a menu to choose different options:
 (1) Reads the contents of the CSV file and displays it.
